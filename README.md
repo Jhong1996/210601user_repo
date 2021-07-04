@@ -1,15 +1,24 @@
-# AI-Studio-项目标题
+# 飞桨常规赛：量子电路合成 - 6月第3名方案
 
 ## 项目描述
-简要描述项目
+飞桨常规赛：量子电路合成
+
+量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。
+
 
 ## 项目结构
+
+### Main分支（Default）
+该分支为主要的开发分支，与项目有关的说明和代码文件可放置于此，在仓库被访问时默认展示该分支。
 ```
--|data
--|work
--README.MD
--xxx.ipynb
-```
+-|
+--LICENSE   开源协议文件，默认为MIT开源协议。
+--README.md 项目说明文件，可使用Markdowm编辑器进行编辑。
+--requirements.txt Python项目依赖列表
+```  
+
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2143250?shared=1)
+
+
 B：此处由项目作者进行撰写使用方式。
